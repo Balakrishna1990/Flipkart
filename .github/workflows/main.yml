@@ -1,6 +1,6 @@
 # Define provider
 provider "aws" {
-  region = "us-east-1"  # https://us-east-1.console.aws.amazon.com/console/home?region=us-east-1
+  region = "us-east-1"  #
 }
 
 # Create VPC
